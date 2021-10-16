@@ -113,8 +113,8 @@ const mods = confi.mods
 const ownerName = confi.nombreCreador
 
 //---------𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦---------
-const soportefg = 'https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK' 
-const instafg = 'https://www.instagram.com/fg98._'
+const soportefg = 'https://chat.whatsapp.com/kirkrjrjfju8282iu' 
+const instafg = 'https://www.instagram.com/leonel yana._'
 
 //-----fakethumb-----
 fakefg = fs.readFileSync('./image/fake.jpg')
@@ -1654,7 +1654,7 @@ case 'tagall':
 				teks += `▢ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-		teks += `└─────✪ Dylux ┃ ᴮᴼᵀ ✪───────`
+		teks += `└─────✪››🐰͢⸸ғᴋ᭭-ʟᷤᴇͤᴏͧɴͪᴇͤʟᷤ⸸ ┃ ᴮᴼᵀ ✪───────`
 			mentions(teks, members_id, true)
 			break
 			

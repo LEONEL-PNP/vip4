@@ -680,21 +680,21 @@ infobot =`⊷ *BOT*
 ▢ *FG98* :
 @${fgnum.split("@")[0]}
 _*Diseñador del bot*_
-_*Fb*_ : facebook.com/fg98A
-_*Fb*_ : facebook.com/fg98ff
+_*Fb*_ : facebook.com/leonel yana
+_*Fb*_ : facebook.com/leonel yana
 ▢ *CRISS* :
 @${crisnum.split("@")[0]}
 _*Ayudante de alguno de los camandos*_
-_*Ig*_ : instagram.com/sayurizuniga3
+_*Ig*_ : instagram.com/leone yana
 ▢ *Mi Gato* :
 _*:)*_
 
 ▢ Instagram :
-https://www.instagram.com/fg98._
+https://www.instagram.com/leonel yana._
 ▢ BASE :
-https://github.com/FG98F/fgbotv4
+https://github.com/FG98F/alexa
 ▢ DUEÑO :
-https://github.com/FG98F`
+Leonel y a....`
 mentions(infobot, [fgnum, crisnum], true)
 break
 
